@@ -49,4 +49,4 @@ gem 'friendly_id', '~> 5.2.4'
 gem 'devise', '~> 4.7', '>= 4.7.1'
 gem 'bootstrap', '~> 4.0.0'
 
-gem 'devcamp_view_tool_hidehide', git: 'https://github.com/hidehidehorie/creating-a-ruby-gem'
+gem 'devcamp_view_tool_hidehide', '~> 0.1.0'

@@ -17,4 +17,8 @@ module ApplicationHelper
     end
   end
 
+  def copyright_generator
+    DevcampViewToolHidehide::Renderer.copyright 'Hidehide', 'All rights reserved'
+  end
+  
 end

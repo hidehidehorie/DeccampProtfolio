@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/hidehidehorie/creating-a-ruby-gem
+  revision: fbb011fc7f6f228e54f5cda9475c2c02f69d17f3
+  specs:
+    devcamp_view_tool_hidehide (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -215,6 +221,7 @@ DEPENDENCIES
   bootsnap (>= 1.4.2)
   bootstrap (~> 4.0.0)
   byebug
+  devcamp_view_tool_hidehide!
   devise (~> 4.7, >= 4.7.1)
   friendly_id (~> 5.2.4)
   jbuilder (~> 2.7)

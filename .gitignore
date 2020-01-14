@@ -32,3 +32,4 @@ yarn-debug.log*
 
 # I don't want to show my secrets
 credentials.yml.enc
+.env

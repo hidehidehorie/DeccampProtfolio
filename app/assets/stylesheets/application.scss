@@ -199,9 +199,9 @@ body {
   width: auto;
   height: auto;
   z-index: -100;
+  background-color: black;
   -webkit-transform: translateX(-50%) translateY(-50%);
   transform: translateX(-50%) translateY(-50%);
-  background: image-url('dev_team.jpg') no-repeat;
   background-size: cover;
 }
 
